@@ -57,3 +57,8 @@ Weather information is often integrated into other systems like smart homes, agr
 
 Resume & Skill Development:
 For beginners in Java, demonstrating the ability to integrate external libraries (like Gson), parse JSON, and run projects from the command line shows practical knowledge beyond simple "Hello World" programs. Such projects can strengthen a resume or academic portfolio.
+
+#OUTPUT
+
+<img width="1919" height="989" alt="Image" src="https://github.com/user-attachments/assets/ab1f4aa4-5607-44f7-b187-97fbff269b9c" />
+
